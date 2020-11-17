@@ -1,5 +1,5 @@
 === Asthir ===
-
+View Asthie Theme Hompage And Details: https://wpthemespace.com/product/asthir/
 Contributors: nalam
 Tags: two-columns, right-sidebar, custom-background, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, e-commerce, blog
 Requires PHP: 5.6
