@@ -1,4 +1,16 @@
-=== Asthir ===
+Asthir
+-------
+
+[1]: <https://wpthemespace.com/product/asthir/>
+
+_Latest WordPress Theme For Shop and Blog Websites _
+
+#### Theme Details Link
+
+[https://wpthemespace.com/product/asthir/](https://wpthemespace.com/product/asthir/)
+
+#### Theme Info
+
 View Asthie Theme Hompage And Details: https://wpthemespace.com/product/asthir/
 Contributors: nalam
 Tags: two-columns, right-sidebar, custom-background, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, e-commerce, blog
@@ -9,16 +21,19 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://opensource.org/licenses/gpl-2.0.php
 
-== Description ==
+#### Description
+
 Asthir is a new WordPress Shop and Blog Theme. Asthir is flexible, easily customizable, super fast, lightweight and a modern WordPress theme. It provides a very unique look with extra post layout. Asthir is a super fast WordPress theme. Best Suitable for creating any type of website such a blog, shop, store, car workshop, life coach,  barbershop, furniture shop, yoga, resume, charity, digital marketing, agency, etc. Asthir works with any of your favorite page builders like Elementor, Visual Composer, SiteOrigin, Divi, Brizy etc.
 
-== Installation ==
+#### Installation
 
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-== Copyright ==
+
+
+#### Copyright
 
 Asthir WordPress Theme, Copyright 2020 Noor alam
 Asthir is distributed under the terms of the GNU GPL
@@ -49,40 +64,7 @@ Fonts License: SIL OFL 1.1
 Source: http://fontawesome.io/
 
 
-
-
-== Screenshot ==
-
-Image for theme screenshot, self created
-License: CC0 1.0 Universal (CC0 1.0)
-
-* Screenshot image one and default header image
-License: CC0 1.0 Universal (CC0 1.0)
-Source:https://pxhere.com/en/photo/285
-
-* Screenshot product image one
-License: CC0 1.0 Universal (CC0 1.0)
-Source: https://pxhere.com/en/photo/1120098
-
-* Screenshot product image two
-License: CC0 1.0 Universal (CC0 1.0)
-Source: https://pxhere.com/en/photo/826780
-
-* Screenshot product image three
-License: CC0 1.0 Universal (CC0 1.0)
-Source: https://pxhere.com/en/photo/1419163
-
-* Screenshot product image four
-License: CC0 1.0 Universal (CC0 1.0)
-Source: https://pxhere.com/en/photo/635899
-
-
-== Changelog ==
-
-= 1.0 - October 19 2020 =
-* Initial release
-
-== Credits ==
+#### Credits
 
 * Based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * TGM-Plugin-Activation 2.6.1 https://github.com/TGMPA/TGM-Plugin-Activation, Copyright (c) 2011, Thomas Griffin., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
