@@ -1,4 +1,4 @@
-Asthir
+Asthir WordPress Theme
 -------
 
 [1]: <https://wpthemespace.com/product/asthir/>
