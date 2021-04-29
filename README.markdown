@@ -7,7 +7,7 @@ _Latest WordPress Theme For Shop and Blog Websites _
 
 #### Theme Details Link
 
-[https://wpthemespace.com/product/asthir/](https://wpthemespace.com/product/asthir/)
+[https://wpthemespace.com/product/asthir-pro/](https://wpthemespace.com/product/asthir-pro/)
 
 #### Theme Info
 
